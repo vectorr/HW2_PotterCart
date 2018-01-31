@@ -1,3 +1,3 @@
 # HW2_PotterCart
 usage:
-#python PotterCart.py
+#python PotterCartTest.py
